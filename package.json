@@ -13,7 +13,7 @@
     "README.md"
   ],
   "dependencies": {
-    "quill": "^1.3.4"
+    "quill": "^2.0.0-beta.2"
   },
   "devDependencies": {
     "@ava/babel": "^0.4.0",
